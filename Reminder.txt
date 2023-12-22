@@ -1,0 +1,3 @@
+Remaining: SVMs, Hierarchical clustering, gboost and xgboost, ranodm forest, classificaiton, kmeans, linear discriminant analysis, PCA, 
+
+Neural networks, ANNS, SNNs, Deep learning, reinforcement leanring, SEM, MLM, CFA EFA
